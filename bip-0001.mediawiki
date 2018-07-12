@@ -145,7 +145,7 @@ If you are interested in assuming ownership of a DIP, send a message asking to t
 
 ==DIP Editors==
 
-The current DIP editor is Denis Parfenov who can be contacted at [[mailto:denis.parfenov@pm.me|denis.parfenov@pm.me]].
+The current DIP editor is James Littlejohn who can be contacted at [[mailto:james@aboynejames.co.uk|james@aboynejames.co.uk]].
 
 ==DIP Editor Responsibilities & Workflow==
 
