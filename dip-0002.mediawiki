@@ -1,0 +1,52 @@
+<pre>
+  DIP: dip-proposed governance
+  Title: Goverance & Decision Making
+  Author: Denis Parfenov <denis.parfenov@pm.me>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/damahub/dips/wiki/Comments:DIP-0002
+  Status: Replaced
+  Type: Process
+  Created: 2018-10-11
+  Superseded-By: 0
+</pre>
+
+==Abstract==
+
+
+
+==Motivation==
+
+
+
+==Specification==
+
+
+
+===Summary===
+
+
+===Parameters===
+
+
+
+===Selection guidelines===
+
+
+=== Reference implementation ===
+
+
+==Backwards compatibility==
+
+
+
+==Deployments==
+
+
+
+==References==
+
+
+
+==Copyright==
+
+This document is dual licensed as BSD 3-clause, and Creative Commons CC0 1.0 Universal.

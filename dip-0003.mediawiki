@@ -1,0 +1,52 @@
+<pre>
+  DIP: dip-dataType
+  Title: Data types governance and consensus
+  Author: Denis Parfenov <denis.parfenov@pm.me>
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/damahub/dips/wiki/Comments:DIP-0003
+  Status: Replaced
+  Type: Process
+  Created: 2018-10-11
+  Superseded-By: 0
+</pre>
+
+==Abstract==
+
+
+
+==Motivation==
+
+
+
+==Specification==
+
+
+
+===Summary===
+
+
+===Parameters===
+
+
+
+===Selection guidelines===
+
+
+=== Reference implementation ===
+
+
+==Backwards compatibility==
+
+
+
+==Deployments==
+
+
+
+==References==
+
+
+
+==Copyright==
+
+This document is dual licensed as BSD 3-clause, and Creative Commons CC0 1.0 Universal.
